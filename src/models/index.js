@@ -6,7 +6,7 @@ const POSTGRES_URI = process.env.DATABASE_URL;
 const { Sequelize, DataTypes } = require('sequelize');
 const foodsSchema = require('./foods.schema');
 const clothesSchema = require('./clothes.schema');
-const ModelInterface = require('./ModelInterface');
+const ModelInterface = require('./modelInterface');
 
 const DATABASE_URL = process.env.NODE_ENV === 'test' ? 'sqlite:memory' : process.env.DATABASE_URL;
 
