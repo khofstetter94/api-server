@@ -10,8 +10,8 @@ Build a REST API using Express, by creating a proper series of endpoints that pe
 
 ### Links and Resources
 
-- [ci/cd](https://github.com/khofstetter94/basic-api-server/pull/1)
-- [back-end server url](https://kmh-basic-api-app.herokuapp.com/)
+- [ci/cd](https://github.com/khofstetter94/api-server/pull/1)
+- [back-end server url](https://kmh-api-server.herokuapp.com/)
 
 ### Setup
 
